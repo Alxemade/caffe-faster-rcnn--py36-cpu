@@ -7,7 +7,7 @@
 2. [Requirements: hardware](#requirements-hardware)
 3. [Basic installation](#installation-sufficient-for-the-demo)
 4. [Demo](#demo)
-5. [What we are doing and going to do](#What we are doing and going to do)
+5. [doing and going](#doing and going)
 6. [References](#References)
 
 ### Requirements: software
@@ -107,7 +107,7 @@ cd $FRCN_ROOT
 The demo performs detection using a ZF network.
 
 
-### What we are doing and going to do
+### doing and going 
 
 - [x] Caffe-CPU
 - [x] ZF
