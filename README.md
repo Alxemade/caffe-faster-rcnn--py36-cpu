@@ -7,7 +7,6 @@
 2. [Requirements: hardware](#requirements-hardware)
 3. [Basic installation](#installation-sufficient-for-the-demo)
 4. [Demo](#demo)
-5. [doing and going](#doing and going)
 6. [References](#References)
 
 ### Requirements: software
